@@ -43,4 +43,4 @@ Follow these instructions to get a copy of the project up and running on your lo
    ```bash
    npm start
 
-2. Open your web browser and go to [http://localhost:3000] to access the app.
+2. Open your web browser and go to [http://localhost:3000](http://localhost:3000) to access the app.
