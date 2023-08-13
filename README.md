@@ -1,7 +1,5 @@
 # CheckYourDaily Weather App
 
-![CheckYourDaily Weather App](app_screenshot.png)
-
 CheckYourDaily Weather is a simple React app that allows users to check the weather forecast for their desired locations. With a clean and user-friendly interface, users can quickly get the weather information they need for the day.
 
 ## Features
