@@ -44,3 +44,21 @@ Follow these instructions to get a copy of the project up and running on your lo
    npm start
 
 2. Open your web browser and go to [http://localhost:3000](http://localhost:3000) to access the app.
+
+### Using the App
+
+1. Enter a city or location name in the search bar and press "Enter" or click the search button.
+
+2. The current weather for the specified location will be displayed along with a 5-day forecast.
+
+3. Enjoy checking the weather for different places and planning your day accordingly!
+
+### Technologies Used
+
+- React: JavaScript library for building user interfaces.
+- OpenWeather API: Provides weather data for the app.
+- CSS: Styling and layout.
+
+### Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
