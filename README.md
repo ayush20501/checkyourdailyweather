@@ -25,3 +25,22 @@ Follow these instructions to get a copy of the project up and running on your lo
 
    ```bash
    git clone https://github.com/your-username/checkyourdaily-weather.git
+   
+2. Navigate to the project directory:
+
+   ```bash
+   cd checkyourdaily-weather
+
+3. Install the required dependencies:
+
+   ```bash
+   npm install
+
+### Running the APP
+
+1. Start the development server:
+
+   ```bash
+   npm start
+
+2. Open your web browser and go to [http://localhost:3000] to access the app.
